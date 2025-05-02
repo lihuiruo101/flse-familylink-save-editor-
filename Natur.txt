@@ -1,0 +1,5 @@
+"""@lihuiruo101"""
+txt / <%> <time> <&>
+time.txt
+
+scos/cat
